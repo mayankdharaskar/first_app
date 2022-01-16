@@ -1,5 +1,5 @@
 # README
-complete ruby on rails developer by mayank
+complete ruby on rails developer by mayank dharaskar
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
