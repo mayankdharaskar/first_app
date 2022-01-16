@@ -1,5 +1,6 @@
 # README
-complete ruby on rails developer by mayank dharaskar
+complete ruby on rails developer by mayank dharaskar 
+first test complete to add repository
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
